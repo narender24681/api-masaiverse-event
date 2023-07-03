@@ -1,0 +1,76 @@
+{
+    "users": [
+      {
+        "name": "Narender",
+        "age": 27,
+        "place": "Hyderabad",
+        "batch_name": "WEB-18",
+        "profession": "Backend",
+        "id": 1
+      },
+      {
+        "name": "Vinay",
+        "age": 23,
+        "place": "Karnool",
+        "batch_name": "WEB-24",
+        "profession": "Frontend",
+        "id": 2
+      },
+      {
+        "name": "Vijay",
+        "age": 21,
+        "place": "Mall",
+        "batch_name": "WEB-23",
+        "profession": "FSD",
+        "id": 3
+      },
+      {
+        "name": "Praveen",
+        "age": 23,
+        "place": "Sirisilla",
+        "batch_name": "WEB-23",
+        "profession": "Student",
+        "id": 4
+      },
+      {
+        "name": "Vanshi",
+        "age": 27,
+        "place": "Sirisilla",
+        "batch_name": "WEB-22",
+        "profession": "Frontend",
+        "id": 5
+      },
+      {
+        "name": "Naveen",
+        "age": 27,
+        "place": "Hasthinapuram",
+        "batch_name": "WEB-22",
+        "profession": "FSD",
+        "id": 6
+      },
+      {
+        "name": "Shiva",
+        "age": 27,
+        "place": "Yacharam",
+        "batch_name": "WEB-23",
+        "profession": "FSD",
+        "id": 7
+      },
+      {
+        "name": "Vinod",
+        "age": 27,
+        "place": "Old City",
+        "batch_name": "WEB-23",
+        "profession": "Backend",
+        "id": 8
+      },
+      {
+        "name": "Kanishq",
+        "age": 27,
+        "place": "Karmanghat",
+        "batch_name": "WEB-19",
+        "profession": "Student",
+        "id": 9
+      }
+    ]
+  }
